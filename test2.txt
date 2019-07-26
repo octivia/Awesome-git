@@ -1,2 +1,2 @@
-Hello git ...This file is for test-branch---
+Hello git ...This file is for test-branch
 Hello git ... We are checking the changes in the file using git show 
