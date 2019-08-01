@@ -80,3 +80,7 @@ Revert back : It is the process to go back to previous version
 7.  Now the first 8 hash of commit 
 8.  Run the command 
 9.  git checkout copied_hash_value  file_name  --> this will revert back to previous version
+
+
+//To clone the repo 
+$ git clone 'repository_link'
